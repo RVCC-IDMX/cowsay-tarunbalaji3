@@ -2,7 +2,7 @@
 
 ## Testing the NPM module
 
-> ____________________________
+>  ____________________________
 < I am stuck in the terminal >
  ----------------------------
     \
@@ -36,4 +36,4 @@
            ／l｜l/
           ｜|ﾚ'lノ
            レ'
-Taruns-MBP:cowsay-tarunbalaji3 tarunbalajiravi$ 
+Taruns-MBP:cowsay-tarunbalaji3 tarunbalajiravi$  
