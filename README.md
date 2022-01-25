@@ -5,7 +5,7 @@
 
 >  
 > ____________________________
-< I am stuck in the terminal >
+> < I am stuck in the terminal >
  ----------------------------
     \
      \                                                           ＿＿＿ノ^l
